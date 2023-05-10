@@ -1,459 +1,459 @@
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "5de3d605e43644b149dfccbce9c18720ac48047d"
+git-tree-sha1 = "92bdaadaa525df9183099a606fa196824fbeac12"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Perple_X.download]]
-    sha256 = "bd0f3352420d14a8d8aebf732e54ae548f7000a36783be1f38fa7ed762d1f64e"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "6b22b4b71ff7bc3e1078765f7daa10240b1824048c3716a26558edf2a3a9b9be"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "d9ad4449210e5155ced49ae01175f10cf5bb81ca"
+git-tree-sha1 = "55253d1bfeb24292efa06a434e246cb8547631a8"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "07fe9f23219655376d7f7d82869f93862ef6ed19dd05f87152c963e0b538e859"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "dde2dd0efeca5048276f6f928607bf26dedcb502b7cbb99a82242f1be806a708"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "a4895cef415c2bec5260ece2c92ddceda490b1a6"
+git-tree-sha1 = "85a394306e8e0bf4f525ee615b4ddbfa957071e0"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "d5db5b9bacd29c39cb59d0e3e890f9591d9400c87f917919aa4c4bb9ac35fbfd"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d061b115ac4392d281ecbfbb923468dd8873ba7fe5f5acd7ad50c948f937b2bb"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "cb31ed2bdf9ba04aceb410b93bacbf31bea60b42"
+git-tree-sha1 = "fa48266bee8dbcede0b95b23f1e1f948857fa724"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "60e75bbd1dc38bcab77c6073a34f039558f4a0aabff750369f3ae66a3ad593b6"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "74a1671f05eb3f4331de9d54d396c34cd3dd7b926b1dddbac4c089521e135066"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "04e32a995c081b0873601302d10b55ac44b3b137"
+git-tree-sha1 = "7074260961b2cc4b84ac16fe1d45292ef70f15d6"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "0719d4bf9693e72ed10cabbb608da5aa6edddebb4d5e06d3d4fb34a7c6be9012"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "67c197bf029eafea72553e928cb84a90154f8a7a5e3bc277f745cf170690f6b2"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-musl-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "76d308c02e9ae1b30d733be768467d93ca1ccff6"
+git-tree-sha1 = "ede36b617e93f7e6867830e01084ed1568d671e5"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "bfbde6de0feb93b84637ac7b8acf722a45ab99251c03a27dfbf557af6e843710"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "2f509faf602174d9827cdf6e4e907a8eca2e6bcbde7ac0cc49900fcdaffce9c0"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-musl-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "aarch64"
-git-tree-sha1 = "bdee44da922d7411266571e67bfa37dbe58b9bb1"
+git-tree-sha1 = "6bfcade058d16d1f2bef6baf6ae355c8e07cf0b0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "5f2a2ce223b3e434999dea0f7761d4e89e51e344c98694555c64fd1dd37dd2bd"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "214d350a12274da8a55d681ea7c0a854be02bc3fa7633efb5670a89b89422b15"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.aarch64-linux-musl-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "22f3667ee11ad87266ff6a41df965a4102f1fac7"
+git-tree-sha1 = "0bcaeb56f00d0b2893232c0ac0fac8ca738a7635"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "d01a1de334e1dc77d04b40e7a4535acdd2e25527441fd2ee741c6ab4948b1191"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "79f9c9bd76832e1a3d3a334f83c83110f26ef826787f06c14854fbefcc837f36"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "40bf2719414deb634a5c569a3a1911a893affbfa"
+git-tree-sha1 = "a0280d356e8dbc401be5bb29e8d9bbb44d375a6b"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "dffa25d77fac8a72a8a7d356ae2adc4cdd47b65cde23469cebb0a2fe98dbca7f"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "c8fa8923bfbaaedb475000b2405070a3d0172f626271e7981fb574d468b901c7"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7e78cb96f78f2b122119faa4b29d176dc49fdc03"
+git-tree-sha1 = "13123e3b7dd59213d23e567824d150d82364955e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "553fcb7d523c9df369d11f18e46de0621f980ea3516493fa60d2e13362b17dbe"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "8fe601245227b5bc5cd4fed25664d5651ce62680210322e4a859247b0d2faa41"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7ec54b0c4379ee03faa833b34fe31fb68e9e38dd"
+git-tree-sha1 = "9b27f662773cf2f7f33b5eb51f8b021e1d13d5c2"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "eac7256b6a57e82897ec363e5012dfa331af07b06c5321d25623a9960311bca1"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "b77e6a59c2be874db3ae047cddfcf33922848aac203e365d678a1de740188519"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d304612d300ad1e23362982a18fb36c4a561c495"
+git-tree-sha1 = "a676c2406fbb743b46f276aee8ea425424cedda3"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "c2ae7814a007cf3e97d8933e964176f8359db8e0ad8f91843ebd3eb2fb48e6c8"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "20f3c00421a6293765501a5ab7336890b187b0e5cacf5fbd47498e7240cf973c"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fbe43074de8e0278a6557db8c240b83c406b9db4"
+git-tree-sha1 = "7ca1fb1d29fd419a11f6185c72186639386d13e8"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "5138679344a2abbc90f974b9e4138cca000ff76f9acc8f2fab340973005f6a4a"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "1b72cfea3901c138b6323dbee23416ae4fa7e579ccd0e69e07574826e08b49f7"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ee92bd52ea056df74cc0591f54586cca5a9b2372"
+git-tree-sha1 = "733991e60c9f1969202d99fc9c823b8a4e0ead3a"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "71d917eb269c054f90cd609073f2d5afcf4d2d7d28fdea0757c7e993a545237f"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "622b995ee23e90da34510e9b953bf2025e3afd642e10c8b59ed2ec1775c9f843"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "74eda5dde74c539d8f677f1418eb91891a29287b"
+git-tree-sha1 = "c9d702a2ddfb5552e38ce8e9a2d28f6bbde22f4c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "a4e51e3a5e295bd1a9b2fb529d6655b7dc2bb39f6dea6fe4cb43bf579b934538"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "821f3a03700108fd7fb8cdf28cd88353ad46a70ad9d42cc583c38d1347686d4d"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8a8e1d6afb77377dc472ea64b8f6cc316eaafc5c"
+git-tree-sha1 = "52269e98c05803cbd7eb98505d867cbd3ae30550"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "1b3e0a4f82a574584c5bfb9a01222a23d234870e8d8f4ecdca21c898a5c682aa"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "873f14daf355eacfe949d0b4d117f141ea3e0d37d00308133841c45fc3a9d4c0"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ef60915a0de322df7cd95cc3f200a4bb26cf9428"
+git-tree-sha1 = "b8a4b6a38df08f70030def111723e6d403cd6c30"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "209d8f4d482c8c5d3d402bf9a8d784389cacc65dc8c8e0b22646b81d3c014d03"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "915b2d92826b22e0ea3b5c345bada4df63a7ed65fd2bd37ec514265441b375c9"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "19fcc7eb4c2d858b252b024b20e370fdfd2a3e84"
+git-tree-sha1 = "2f0574832e1e6e16636059fc97d7c85b5e842910"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "f9ede87de54e2b4770fb5f6e1143d1b0144b81cbc48c55ab7abe3bc323811942"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "234df064af41704eb28abecf61b760fb9fbf9157e3313d2471837594f57b1d0a"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "30dfd9f7e08186e5fc873bbca2c1627acf7169e4"
+git-tree-sha1 = "58f39888811cd97eeb97bcbef71c5db3b66de76f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "538e6c38c182f904c046a0eaba76a9457c94e456810a052cbfd9487693a784b1"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "b3f2bd8bfd239a5c75007b7a1604bbb4a4b2e7f32f16e823761741b7e9ad7ddd"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "715eef641f5a12b0869b96973e9b73981dbe3c52"
+git-tree-sha1 = "3101bd892f2676fa84196550c02fe7e8f5a8f432"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "ceeb970560ca837dae47fee2ec7450a4d04d9e54c98eecd27ba3f321b4fc0774"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "f7045f6fe1356ef49e1130d039e05f01f9f9251f2a5617d6570964db91928810"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-gnu-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "f33296cee357cd003b48b050233e6ac067a4b560"
+git-tree-sha1 = "d0724fcc827f9d0436d5c6e419e79507aeccd855"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "90b63a1c0502591a2de5f92801124ea916dedb7beea339cf91049a3e341ca131"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "37d4253ac580ee891d8f035d92f7ca6a3803535a0c9d339d0fbd8de21e7b2620"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-gnu-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "082ea3dc9a973b6d9b267d429f000447b4371226"
+git-tree-sha1 = "2cdb6b6e13b336546b93b70b598f7c73da7f07ff"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "61374121bba4649656b95036d3ee901e006c1632d5a2aa407f80a343c109236f"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "ee6ad2aabc74f6bb227a43be26365c137ff5c27e3701b66f1b9fd0e0925dc4fb"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-gnu-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "32e233993cdfd6e9bc1bcdbd6c902f5f6b280956"
+git-tree-sha1 = "062cd941aff645759d9fd78d5fd4c7e859751624"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "3bd2baeabf3f837a7733a576031bcea61ebdde6c8b920e50b3e2453fc440795d"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "009302c3ecba6f8c94433402e4a58a61d5d4b7bfe2cacc91f51f15878d2e95b2"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-musl-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "d2c56bee6a8bba0c1de8f217a26467fe272343eb"
+git-tree-sha1 = "1a0aac171b003a0b81f4e673e8ed05f06bd470b9"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "7fb1924fc29e7f965721c43ab54db65adb6cf072823f68512fca250b3663ac7a"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "46c948c013dfc28a5aacf102b988087dbf07a3dc374876252d9d172a24044077"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-musl-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "41097908b97a3cd4d3488cc594b00d52b1acbf0a"
+git-tree-sha1 = "cc53ccb094c2d4aa5a8bff869c6320b06536dea1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "c5570e44f5609d51db242f16f4f3a90cc29a4e238072c065f76df91cbeb6e3a5"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "5d24421798c8f48028a5a271159d5ced01d93addccd6d5f68f6d48622c81e51f"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-linux-musl-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "c5fa4f49e1a9827e5838aa7c9788440a60ec5223"
+git-tree-sha1 = "b4f8156fb315b89c25a5cb42ae94c225eb9c21ee"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "15a178e46cc8261a9901260c1478c2ad74464722f7ed6dfb22c56985fc117b62"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "5472b686a41de64b439a681c3df358a0a82cbe9bd456c3d7fa4fcf6ece2bebd1"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-w64-mingw32-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "d9714355f4558ce738e5a71d514a91f728ddfbc6"
+git-tree-sha1 = "640154011beb7cb180774d8d18a7256cf74a78e1"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "949838e3b8ed2e8a1effa0ccc24ffa1aee74eaa684e8417537ca5882a10ed71f"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "68f9347b8fccbaef87d0897af503b04ce0cbc9dfe464920c446449f16cdb4ed7"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-w64-mingw32-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "i686"
-git-tree-sha1 = "409212a803e40f57db32d331c0b2512a52cf6a9b"
+git-tree-sha1 = "36b3a6101186364d15ee35cd1abe165aaa11b836"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "e33a466a865ca37a3f221044513e6f13b5aadd97756d3837baeb2569260e5877"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "6d0c1f8898c9596796a28daa382e4032bf01a1b8d445dc64660a6d1e64382e35"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.i686-w64-mingw32-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "powerpc64le"
-git-tree-sha1 = "ad24fdd51221071e119f3296fa5bd9b65ccacd0e"
+git-tree-sha1 = "3aefba545b0e23de22bb93b9c9fe914a33275285"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "89ce567a9a00e72bc55fda0592c7e82750b093eaf7693dbb708b72068a0f38e0"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "247d134c68439947b99a45d175a904bba3749cbce7f6f07b6e80d6c0fbd41c76"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "powerpc64le"
-git-tree-sha1 = "f2b28ea51947e098a23510baef67a0218fbfbdcd"
+git-tree-sha1 = "b64c97f687cad46f68975a44a5aea0c28b1ea9b0"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "4cb9056c08a259ff8609d07b755f788cef414aeb796119e636aabe8fa45d3317"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "713b5712104c2d1144e933bee35bfa9cb9ff5374986922c8a158e7b80460c373"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "powerpc64le"
-git-tree-sha1 = "e19a2fdd9f19daa12cb51b058b7d54c040d6b28f"
+git-tree-sha1 = "83a83314c440eb396fdfd25e4758a6fc490fb565"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "995d584bd4130f3ec4acdeec1a398a1bf2c0108f5c8d7c7825536fcf07d0e4cf"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "75d93e44a72312dafe17df1799e2d3b8ad2fa0cea5c8037201223e0abecd7ac8"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "445beb99013d72db493188985d914f70dbd7d99e"
+git-tree-sha1 = "5ea79e5bcaeb602ecd6577fcbc5809a4a2391119"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Perple_X.download]]
-    sha256 = "436e4bfe4b5ccea82df11f9d7008daad9362cadc4831a2c108b7d5bdd2af489d"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "f6b09d46156533f72ad8dc158ba524ebc83bd745f343dcdc61c39e21646ab718"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "8e8f2ac31cd0d90dfd573e46e131ace0e663c933"
+git-tree-sha1 = "32635df1e314bda1f0955f071464bc85472cbf19"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Perple_X.download]]
-    sha256 = "fe58ec86574b7c483894506acafffdc814650c323c070558189faadbc80abbfa"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "e146bb1328783fd9d2f799dc7a294974cd8e073d62d353864066121a7df5e9bc"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "ec366f1a173a6c9fdbbe1649a3652593e8110fd3"
+git-tree-sha1 = "82924d5b501151ce26c894b2669bbe12737a9c99"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Perple_X.download]]
-    sha256 = "83196a583a778acbdc8a62c850d7c93960bf5b091af2fb5eeb65c69a5acd2e5c"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "6983b59a4b1eee6f4fdd4fc52a79520e2854667c608e85a595a996e50c660445"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "d7e206689fe1e0c9483f2215cc3baaf14c78e638"
+git-tree-sha1 = "533ca3a8ebd87c7b2772dfb81c354972436468ad"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "534b76521c792b8877b6943abcf01f0c6e3a70865a008b72a6c7023bfd06b2cc"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "a93288ff68f1e2f5280580717e91e165184787ab1cbec1c62af29860da2ae93c"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "db557dae16b5e00ae828c61384c437366a50aebe"
+git-tree-sha1 = "c8fd328aa83ff90f41518090fc3397c08de704b3"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "519eade1abe3f2dcbc08711f5106bbc0cc16d7135e9c1b8eca49452ac15183b4"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "e907a1d61d59978fe07230aef409aa1236a6f869dbf9b4abbf5a59379e0691a0"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "de611fad98f0257bea3161b82e8e9575e9b4f93b"
+git-tree-sha1 = "603c705f7de91b5bcaf48f95729cd5d147389d9e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "a448826759d34faa3928a4c2bc64f49cfca82103b564ec4c7047673d20ab5712"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "55b7a30c954e18e8c8425830222c247af27aa59ee9642412c59279ac5358153e"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "2c1d4a183235e96863cfbbe986e6ec7cddabc69b"
+git-tree-sha1 = "721513d5906d257cae75f70d3d7d3fce77ed3674"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "ef729ec1adca90a7bdcd4bc988fe92c038da93aabd16c000925b6a5f79d5d292"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "aa654680590057eb566ee4cdcbbde72eeaa4ba87e96be9ec8fafaddec84f31f7"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-musl-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "f0f1221ebe08d40fc937c9cae149d19370e2a15f"
+git-tree-sha1 = "f043a5fff1d0c53aa3f97a69ed9bb6e2e67dd895"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "4c91df0cf2850c5ee9db25a4b41d3b598a6f843acb9dde66029292443629abcb"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0d8feff956f22069e2da8b26abdab95ab42c2fa4d762445734a25d44f977c108"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-musl-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "71ddbd99a9bbc5208dc85358a9d20f5b3db11f32"
+git-tree-sha1 = "aa8879fa250c906b8448024f097c20a5b9e11b55"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Perple_X.download]]
-    sha256 = "c9dd34baee18bdb02bc4ad2dd92e54fe7dee7354b2ee3d258759ff9ff26c9a78"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "3cb21d98b1e6b3fc3ec333f8959591773363c11e1e48698ae4f950fa8fb4bd67"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-linux-musl-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "080e59070ad7db614f636a2f6e3c4363097df392"
+git-tree-sha1 = "abfe80cf7567ce9ed3a9cbb387c565540837ef78"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[Perple_X.download]]
-    sha256 = "da4c2ec0d1da3d4aeacd010ed2508d0aa046d4ed75fb82e92440ef65de763818"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "97e8d0160ee1d65c072c66acd9e30ddf2bff543a628a499595ba28b476954897"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "073933502643fd048f7a95ae4b20e233d5813365"
+git-tree-sha1 = "d6c591d67dae844a803cb0e850659aed33af0fe1"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Perple_X.download]]
-    sha256 = "c194c946d20856fe1ec43d3a91852e33942d7de8ec8a80c8f1bfb0c2bdf70c83"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "5ddcc05a69503b91c79cd04f97d3d712ab5302247ea02341ec3915a7fa31e244"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "4071046c42c0bbaafc593d21f80edca97fdba820"
+git-tree-sha1 = "40a6af78e4481728c374dbeeb6f5129e58e97a66"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Perple_X.download]]
-    sha256 = "5337425b0af7f3796f4ede11c993d1c83e9b9b9f66df78fb95bdea2e1a903ec2"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "3b144f23ce266734d32fc39dfc0fccabcbbd2e3d00add9fd3378c67d50c2865d"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "1d91f76dcd384facf727bc7e4b26de042eb94663"
+git-tree-sha1 = "3bfaa5fef5c66a1c2313691c672d75d0cac1c5e6"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "fb409ef706fd0dd8805cd6bc4ab07575325c60ea6cb14c1d8223d0f52b005c8b"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "ee1cd292925554aab9dd46a29ce73f9e2f887eb21fd92b9240826c9a50087ea9"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "faaba0d8ad226d73ecf674ee4930bc3d879be508"
+git-tree-sha1 = "c3b503a67546173dbae12319d3fbf105507c41be"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "ee0a5069869c6eadeebc7fd613cb907cf634620fb727357b8c05354f723e5c2c"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "d971cef84264809b8276eeedf2d4d53709743993b4a2860b8ae94de0405cd8bb"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[Perple_X]]
 arch = "x86_64"
-git-tree-sha1 = "e9b19bcb478ff589bac1f51ef318876d3e1b031f"
+git-tree-sha1 = "2f69bde9ee4a81298c0285f8e45f9dbf656e6c16"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Perple_X.download]]
-    sha256 = "057c99a7213ff9969810ed4855451084727ab226cc4ef1d6991f6fdef7aeaa72"
-    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.9+0/Perple_X.v7.0.9.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "18a93a7079bae74f3c0c82873221b1a16a069ccf8e5cba09256badfb3c982821"
+    url = "https://github.com/JuliaBinaryWrappers/Perple_X_jll.jl/releases/download/Perple_X-v7.0.10+0/Perple_X.v7.0.10.x86_64-w64-mingw32-libgfortran5.tar.gz"
